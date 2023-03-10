@@ -24,7 +24,7 @@
 
   function handleScroll() {
     if (scrollTimer) clearTimeout(scrollTimer)
-    scrollTimer = setTimeout(handleScrollEnd, 15)
+    scrollTimer = setTimeout(handleScrollEnd, 500)
   }
 
   function handleScrollEnd() {
