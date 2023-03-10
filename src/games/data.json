@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Sons Of The Forest",
+    "desc": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+    "root": "/src/games/sons_of_the_forest"
+  },
+  {
+    "id": 2,
+    "title": "Dying Light 2",
+    "desc": "The virus won and civilization has fallen back to the Dark Ages. The City, one of the last human settlements, is on the brink of collapse. Use your agility and combat skills to survive, and reshape the world. Your choices matter.",
+    "root": "/src/games/dying_light_2"
+  }
+]
